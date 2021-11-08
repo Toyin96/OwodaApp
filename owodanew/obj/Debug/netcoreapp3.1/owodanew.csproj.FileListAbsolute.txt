@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\owodanew\owodanew\bin\Debug\netcoreapp3.1\owodanew.exe
+C:\Users\ADMIN\source\repos\owodanew\owodanew\bin\Debug\netcoreapp3.1\owodanew.deps.json
+C:\Users\ADMIN\source\repos\owodanew\owodanew\bin\Debug\netcoreapp3.1\owodanew.runtimeconfig.json
+C:\Users\ADMIN\source\repos\owodanew\owodanew\bin\Debug\netcoreapp3.1\owodanew.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\owodanew\owodanew\bin\Debug\netcoreapp3.1\owodanew.dll
+C:\Users\ADMIN\source\repos\owodanew\owodanew\bin\Debug\netcoreapp3.1\owodanew.pdb
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.dll
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.pdb
+C:\Users\ADMIN\source\repos\owodanew\owodanew\obj\Debug\netcoreapp3.1\owodanew.genruntimeconfig.cache
